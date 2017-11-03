@@ -5,7 +5,7 @@ int main(int argc, char *argv[]) {
     SDL_Event event;
 
     SDL_Init(SDL_INIT_EVERYTHING);
-    SDL_WM_SetCaption("Hello World! :D", NULL);
+    SDL_WM_SetCaption("Are you ready to make some noise", NULL);
     SDL_SetVideoMode(800, 600, 32, SDL_HWSURFACE);
     while (gogogo) {
         SDL_WaitEvent(&event);
@@ -15,4 +15,3 @@ int main(int argc, char *argv[]) {
     SDL_Quit();
     return 0;
 }
-
