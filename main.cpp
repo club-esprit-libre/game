@@ -3,7 +3,6 @@
 int main(int argc, char *argv[]) {
     int gogogo = 1;
     SDL_Event event;
-
     SDL_Init(SDL_INIT_EVERYTHING);
     SDL_WM_SetCaption("Are you ready to make some noise", NULL);
     SDL_SetVideoMode(800, 600, 32, SDL_HWSURFACE);
