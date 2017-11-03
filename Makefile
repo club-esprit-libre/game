@@ -1,4 +1,6 @@
-g++ main.cpp  -w -lSDL -o game
+sdltest:	main.cpp
+	g++ -I /usr/include/SDL main.cpp -o main -lSDL 
+	./sdltest
 
-./game
-
+clean:
+	rm sdltest
