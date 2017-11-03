@@ -1,6 +1,10 @@
 #include <SDL/SDL.h>
 
 int main(int argc, char *argv[]) {
+    
+
+    
+
     int gogogo = 1;
     SDL_Event event;
     SDL_Init(SDL_INIT_EVERYTHING);
