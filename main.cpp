@@ -1,6 +1,10 @@
 #include <SDL/SDL.h>
 
 int main(int argc, char *argv[]) {
+    
+
+    
+
     int gogogo = 1;
 
      string aa = "abderrahim " ; 
