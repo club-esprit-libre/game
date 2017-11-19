@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Widget</class>
+ <widget class="QWidget" name="Widget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1139</width>
+    <height>811</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Widget</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background:url(:/new/prefix1/fsociety-logo-mr_robot-tv_series-(10422).jpg)</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="0" column="1">
+    <widget class="QStackedWidget" name="stackedWidget">
+     <property name="currentIndex">
+      <number>1</number>
+     </property>
+     <widget class="QWidget" name="page">
+      <layout class="QGridLayout" name="gridLayout_2">
+       <item row="1" column="1">
+        <widget class="QSpinBox" name="choix_1"/>
+       </item>
+       <item row="2" column="1">
+        <widget class="QSpinBox" name="choix_2"/>
+       </item>
+       <item row="3" column="1">
+        <widget class="QSpinBox" name="choix_3"/>
+       </item>
+       <item row="6" column="1">
+        <widget class="QSpinBox" name="choix_6"/>
+       </item>
+       <item row="5" column="1">
+        <widget class="QSpinBox" name="choix_5"/>
+       </item>
+       <item row="2" column="0">
+        <widget class="QLabel" name="question2">
+         <property name="styleSheet">
+          <string notr="true">background:none;
+background-color:none ;
+color:rgb(255, 255, 255);font: 16pt &quot;Sans Serif&quot;;</string>
+         </property>
+         <property name="text">
+          <string>TextLabel</string>
+         </property>
+        </widget>
+       </item>
+       <item row="6" column="0">
+        <widget class="QLabel" name="question6">
+         <property name="styleSheet">
+          <string notr="true">background:none;
+background-color:none ;
+color:rgb(255, 255, 255);font: 16pt &quot;Sans Serif&quot;;</string>
+         </property>
+         <property name="text">
+          <string>TextLabel</string>
+         </property>
+        </widget>
+       </item>
+       <item row="4" column="1">
+        <widget class="QSpinBox" name="choix_4"/>
+       </item>
+       <item row="3" column="0">
+        <widget class="QLabel" name="question3">
+         <property name="styleSheet">
+          <string notr="true">background:none;
+background-color:none ;
+color:rgb(255, 255, 255);
+font: 16pt &quot;Sans Serif&quot;;</string>
+         </property>
+         <property name="text">
+          <string>TextLabel</string>
+         </property>
+        </widget>
+       </item>
+       <item row="7" column="0">
+        <widget class="QLabel" name="question7">
+         <property name="styleSheet">
+          <string notr="true">background:none;
+background-color:none ;
+color:rgb(255, 255, 255);font: 16pt &quot;Sans Serif&quot;;</string>
+         </property>
+         <property name="text">
+          <string>TextLabel</string>
+         </property>
+        </widget>
+       </item>
+       <item row="1" column="0">
+        <widget class="QLabel" name="question1">
+         <property name="styleSheet">
+          <string notr="true">background:none;
+background-color:none ;
+color:rgb(255, 255, 255);font: 16pt &quot;Sans Serif&quot;;</string>
+         </property>
+         <property name="text">
+          <string>TextLabel</string>
+         </property>
+        </widget>
+       </item>
+       <item row="7" column="1">
+        <widget class="QSpinBox" name="choix_7"/>
+       </item>
+       <item row="4" column="0">
+        <widget class="QLabel" name="question4">
+         <property name="styleSheet">
+          <string notr="true">background:none;
+background-color:none ;
+color:rgb(255, 255, 255);font: 16pt &quot;Sans Serif&quot;;</string>
+         </property>
+         <property name="text">
+          <string>TextLabel</string>
+         </property>
+        </widget>
+       </item>
+       <item row="5" column="0">
+        <widget class="QLabel" name="question5">
+         <property name="styleSheet">
+          <string notr="true">background:none;
+background-color:none ;
+color:rgb(255, 255, 255);font: 16pt &quot;Sans Serif&quot;;</string>
+         </property>
+         <property name="text">
+          <string>TextLabel</string>
+         </property>
+        </widget>
+       </item>
+       <item row="0" column="0" colspan="2">
+        <widget class="QLabel" name="label">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">background:none;
+background-color:none ;
+color:rgb(255, 255, 255);</string>
+         </property>
+         <property name="text">
+          <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt;ok if you are here that mean you accepted my request and for your first mission&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt;i need you to transmet a file in a diractory called bank_robbery and change the&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt;password stored in that file . &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt;and in order to help you finsh your quest we put all the command line you need in a container all you need to do is &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt;&quot;&gt;to order the steps rights and to chose the right command in evry step &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+         </property>
+        </widget>
+       </item>
+       <item row="9" column="1">
+        <widget class="QPushButton" name="commit">
+         <property name="styleSheet">
+          <string notr="true">color:rgb(255, 255, 255);
+font: 16pt &quot;Sans Serif&quot;;</string>
+         </property>
+         <property name="text">
+          <string>commit </string>
+         </property>
+         <property name="flat">
+          <bool>true</bool>
+         </property>
+        </widget>
+       </item>
+       <item row="9" column="0">
+        <spacer name="horizontalSpacer">
+         <property name="orientation">
+          <enum>Qt::Horizontal</enum>
+         </property>
+         <property name="sizeHint" stdset="0">
+          <size>
+           <width>828</width>
+           <height>20</height>
+          </size>
+         </property>
+        </spacer>
+       </item>
+      </layout>
+     </widget>
+     <widget class="QWidget" name="page_2">
+      <widget class="QLabel" name="label_2">
+       <property name="geometry">
+        <rect>
+         <x>10</x>
+         <y>10</y>
+         <width>1111</width>
+         <height>661</height>
+        </rect>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background:none;
+color:rgb(0, 255, 0)</string>
+       </property>
+       <property name="text">
+        <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:22pt;&quot;&gt;good job boy know put this commands on terminal &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:22pt;&quot;&gt;0-open a terminal &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:22pt;&quot;&gt;1-mkdir banck_robbery&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:22pt;&quot;&gt;2- find / -name banck_account.txt&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:22pt;&quot;&gt;3- mv ~/banck_account.txt path ~/banck_robery&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:22pt;&quot;&gt;4- nano ~/banck_robbery/banck_account.txt&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:22pt;&quot;&gt;5-mv ~/banck_robbery/banck_account.txt ~/old path of banck_robbery.txt&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:22pt;&quot;&gt;6-sudo rm -r ~/banck_robbery&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:22pt;&quot;&gt;7-exit &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:22pt; color:#ec0000;&quot;&gt;Remeber when you find a /home/yourUserName changed with ~/&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+       </property>
+      </widget>
+      <widget class="QPushButton" name="start">
+       <property name="geometry">
+        <rect>
+         <x>10</x>
+         <y>740</y>
+         <width>161</width>
+         <height>41</height>
+        </rect>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">font: 16pt &quot;Sans Serif&quot;;
+backgroud:none;
+color:rgb(255, 255, 255)</string>
+       </property>
+       <property name="text">
+        <string>Start</string>
+       </property>
+      </widget>
+      <widget class="QPushButton" name="commit_2">
+       <property name="geometry">
+        <rect>
+         <x>950</x>
+         <y>740</y>
+         <width>161</width>
+         <height>41</height>
+        </rect>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">font: 16pt &quot;Sans Serif&quot;;
+backgroud:none;
+color:rgb(255, 255, 255)</string>
+       </property>
+       <property name="text">
+        <string>commit</string>
+       </property>
+      </widget>
+     </widget>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>
