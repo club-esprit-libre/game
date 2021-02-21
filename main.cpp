@@ -6,6 +6,8 @@ int main(int argc, char *argv[]) {
     
 
     int gogogo = 1;
+
+     string aa = "abderrahim " ; 
     SDL_Event event;
     SDL_Init(SDL_INIT_EVERYTHING);
     SDL_WM_SetCaption("Are you ready to make some noise", NULL);
